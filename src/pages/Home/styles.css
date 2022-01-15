@@ -1,0 +1,21 @@
+.home-container {
+  padding: 40px;
+}
+
+.title {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-size: 24px;
+  color: #7e7e7e;
+  font-weight: bold;
+}
+
+.start-button {
+  color: white;
+  background-color: #1890ff;
+  font-size: 16px;
+  margin-top: 30px;
+}

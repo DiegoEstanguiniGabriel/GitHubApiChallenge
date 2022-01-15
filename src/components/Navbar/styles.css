@@ -1,0 +1,10 @@
+.main-nav {
+  padding-left: 40px;
+  min-height: 70px;
+  background-color: #1890ff;
+}
+
+.text {
+  color: white;
+  font-size: 24px;
+}

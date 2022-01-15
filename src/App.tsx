@@ -1,11 +1,9 @@
-import "./App.css";
+import './assets/styles/custom.scss';
+import './App.css';
+import Routes from './Routes';
 
 function App() {
-  return (
-    <div>
-      <h1>Diego</h1>
-    </div>
-  );
+  return <Routes />;
 }
 
 export default App;
